@@ -23,4 +23,4 @@ python bbox2token.py --help
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[AI_CLUB](https://www.facebook.com/uit.cs.aiclub)
+[KhoaNg](https://www.facebook.com/vankhoanguyenn/)
